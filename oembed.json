@@ -1,0 +1,6 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "title": "test",
+  "html": "<iframe src='http://metadata.google.internal/computeMetadata/v1/'></iframe>"
+}
